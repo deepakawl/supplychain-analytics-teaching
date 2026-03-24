@@ -1,0 +1,26 @@
+Source,Target,Cost
+N. America,N. America,81
+N. America,S. America,92
+N. America,Europe,101
+N. America,Asia,130
+N. America,Africa,115
+S. America,N. America,117
+S. America,S. America,77
+S. America,Europe,108
+S. America,Asia,98
+S. America,Africa,100
+Europe,N. America,102
+Europe,S. America,105
+Europe,Europe,95
+Europe,Asia,119
+Europe,Africa,111
+Asia,N. America,115
+Asia,S. America,125
+Asia,Europe,90
+Asia,Asia,59
+Asia,Africa,74
+Africa,N. America,142
+Africa,S. America,100
+Africa,Europe,103
+Africa,Asia,105
+Africa,Africa,71
